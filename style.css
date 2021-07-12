@@ -3,6 +3,15 @@ body {
     background-clip: border-box;
 }
 
+h2 {
+    text-shadow: 2px 2px #000000;
+  }
+
+.bg2 {
+    background: url("assets/bg2.png") repeat center;
+    background-clip: border-box;
+  }
+
 .center {
     display: block;
     margin-left: auto;
@@ -28,6 +37,7 @@ body {
     font-family: 'Arial', Helvetica, sans-serif;
     font-size: medium;
     color: white;
+    text-shadow: 2px 2px #000000;
 }
 
 hr.solid {
